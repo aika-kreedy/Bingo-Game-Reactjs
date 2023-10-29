@@ -1,4 +1,4 @@
-Bingo Game build by React-JS Create randome Selected Number and create random boards game for reach player and every started game.
+Bingo Game for three players! build by React-JS  Game picks random numbers from 1 to 99 and create random boards game for each player and every started game. Get a full row or column to win. We score your win by multiplying the unmarked numbers' sum by the winning number. It's Bingo, but smarter! Play now!
 
 
 
