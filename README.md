@@ -1,3 +1,38 @@
+
+
+
+
+![bingo-game-start](https://github.com/aika-kreedy/Bingo-Game-Reactjs/assets/65895863/52c4649d-9108-4762-b445-3e10dc8b3590)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
